@@ -223,4 +223,4 @@ async def addReaction_error(error, ctx):
         await ctx.send('you do not have permission to perform this action')
 
 
-bot.run('ODY5Njc3NjEyMjc5MTY1MDg5.YQBsZA.HGVc8SNrG3oJ-BnNy6IBEFO_X7k')
+bot.run('TOKEN')
